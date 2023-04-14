@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T11:44:36 IST" name="TestOrangeHRM.LoginPage_Test" finished-at="2023-02-20T11:44:50 IST" duration-ms="14951">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T11:44:36 IST" name="Command line test" finished-at="2023-02-20T11:44:50 IST" duration-ms="14951">
+      <class name="TestOrangeHRM.LoginPage_Test">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:TestOrangeHRM.LoginPage_Test@101952da]" started-at="2023-02-20T11:44:36 IST" name="browserOpen" finished-at="2023-02-20T11:44:44 IST" duration-ms="8358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="login()[pri:0, instance:TestOrangeHRM.LoginPage_Test@101952da]" started-at="2023-02-20T11:44:44 IST" name="login" finished-at="2023-02-20T11:44:47 IST" duration-ms="3076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestOrangeHRM.LoginPage_Test@101952da]" started-at="2023-02-20T11:44:47 IST" name="closeBrowser" finished-at="2023-02-20T11:44:50 IST" duration-ms="3218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestOrangeHRM.LoginPage_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestOrangeHRM.LoginPage_Test -->
+</testng-results>
